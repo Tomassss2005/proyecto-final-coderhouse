@@ -52,8 +52,11 @@ npm install
 Creá un archivo .env en la raíz del proyecto con las siguientes variables:
 
 EXPO_PUBLIC_BASE_RTDB_URL=TU_BASE_RTDB_URL
+
 EXPO_PUBLIC_AUTH_URL=TU_AUTH_URL
+
 EXPO_PUBLIC_API_KEY=TU_API_KEY
+
 EXPO_PUBLIC_MAPS_API_KEY=TU_MAPS_API_KEY
 
 4. Ejecución del Proyecto
